@@ -2508,9 +2508,9 @@ input::-moz-focus-inner {
   padding-top: 19.2rem;
   padding-bottom: 16rem;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: bottom right;
   background-size: cover;
-  background-image: url(../images/services-bg.jpg);
+  background-image: url(../images/explain.jpg);
   color: rgba(255, 255, 255, 0.7);
   position: relative;
 }
