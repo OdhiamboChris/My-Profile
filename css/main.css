@@ -69,10 +69,10 @@ body {
 
 body {
   background: #050505;
-  font-family: "Montserrat", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1.7rem;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 350;
   line-height: 1.882;
   color: #000000;
   margin: 0;
@@ -1476,7 +1476,7 @@ input::-moz-focus-inner {
   content: "";
   display: block;
   width: 150px;
-  height: 2px;
+  height: 4px;
   background-color: #cf1767;
   position: absolute;
   top: 0;
@@ -1976,7 +1976,7 @@ input::-moz-focus-inner {
 
 .intro-text h1 {
   font-size: 7.8rem;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.179;
   color: #ffffff;
   margin-top: 0;
@@ -2007,7 +2007,7 @@ input::-moz-focus-inner {
   position: absolute;
   top: 50%;
   right: 0;
-  height: 1px;
+  height: 4px;
   width: 72px;
   background-color: #cf1767;
 }
